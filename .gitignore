@@ -1,0 +1,7 @@
+# Credentials
+*.txt
+
+# Python
+/__pycache__
+/venv
+*.ipynb
